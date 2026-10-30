@@ -1,0 +1,11 @@
+.env
+*.mov
+*.mp4
+*.MOV
+*.MP4
+*.mp3
+*.wav
+*.pem
+*.key
+secrets*
+credentials*
