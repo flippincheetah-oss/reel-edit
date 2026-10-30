@@ -15,4 +15,4 @@ A skill (a saved instruction file Claude follows) that turns your approved clips
 
 No footage, personal data, or keys are included.
 
-By Micaiah. Portfolio: https://micaiah-girma-portfolio.my.canva.site
+By Micaiah. Portfolio: https://micaiah-girma.netlify.app
